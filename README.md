@@ -15,11 +15,7 @@
 <br>
 
  <div>
-  <a href="https://github.com/The-Kevin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=The-Kevin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kevin&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="NODE" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="TYPESCRIPT" height="30" width="80" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">

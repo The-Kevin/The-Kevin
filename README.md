@@ -7,8 +7,6 @@
 <br>
  Backend NodeJs developer
 <br>
- 22y
-<br>
  Development with Nodejs, TypeScript, MongoDB, ElasticSearch, AWS, Docker and more
 <br>
 <br>

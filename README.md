@@ -9,6 +9,15 @@ Currently i still work as developer but majoring in cybersecurity by FIAP (highe
 fun fact, i've traveled for Asia, Europe and latino america looking for the best food ever
 
 
+skiils and loves
+
+
+![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C)
+![Static Badge](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=opensourcehardware&color=black)
+![Static Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=green)
+![Static Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=blue)
+
+
 
 
 

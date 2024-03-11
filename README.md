@@ -17,7 +17,7 @@ skiils and loves
 ![Static Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=green)
 ![Static Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=blue)
 ![Static Badge](https://img.shields.io/badge/Tools-Wireshark/tcpdump-informational?style=flat&logo=wireshark&color=white)
-
+![Static Badge](https://img.shields.io/badge/Tools-x64dbg-informational?style=flat&logo=openbugbounty)
 
 
 

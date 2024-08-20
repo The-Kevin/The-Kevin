@@ -9,7 +9,7 @@ Currently i still work as developer but majoring in cybersecurity by FIAP (highe
 fun fact, i've traveled for Asia, Europe and latino america looking for the best food ever
 
 
-skiils and loves
+skiils and loves below
 
 
 ![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C)

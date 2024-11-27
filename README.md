@@ -19,7 +19,11 @@ Welcome to my GitHub! Here you'll find my personal projects and contributions, m
 ![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C)
 ![Static Badge](https://img.shields.io/badge/Code-ASM-informational?style=flat&logo=opensourcehardware&color=black)
 ![Static Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=green)
-![Static Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=blue)
+![Static Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=purple)
+![Static Badge](https://img.shields.io/badge/Code-GO-informational?style=flat&logo=go&color=blue)
+![Static Badge](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=python&color=black)
+
+
 
 ### Tools I Use
 
@@ -27,6 +31,7 @@ Welcome to my GitHub! Here you'll find my personal projects and contributions, m
 ![Static Badge](https://img.shields.io/badge/Tools-x64dbg-informational?style=flat&logo=openbugbounty)
 ![Static Badge](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=blue)
 ![Static Badge](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&color=black)
+
 
 ---
 

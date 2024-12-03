@@ -33,14 +33,6 @@ Welcome to my GitHub! Here you'll find my personal projects and contributions, m
 ![Static Badge](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&color=black)
 
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Kevin&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kevin&layout=compact&langs_count=7&theme=radical" />
-</div>
 
 ---
 

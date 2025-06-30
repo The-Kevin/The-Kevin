@@ -6,7 +6,7 @@ Welcome to my GitHub! Here you'll find my personal projects and contributions, m
 
 ## 📖 About Me
 
-👨‍💻 I'm a Brazilian with over 4 years of experience in IT, starting as a sysadmin at a small internet provider and later transitioning into software development. Currently, I'm pursuing a degree in **Cybersecurity** at [FIAP](https://www.fiap.com.br), a leading tech institution in São Paulo, Brazil.
+👨‍💻 I'm a Brazilian with over 5 years of experience in IT, starting as a sysadmin at a small internet provider and later transitioning into software development. Currently, I'm pursuing a degree in **Cybersecurity** at [FIAP](https://www.fiap.com.br), a leading tech institution in São Paulo, Brazil.
 
 🌎 **Fun fact**: I love traveling and exploring different cultures through food. I've traveled across Asia, Europe, and Latin America in search of the best dishes!
 

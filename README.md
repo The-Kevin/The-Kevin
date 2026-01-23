@@ -29,4 +29,4 @@ Atualmente em imersão total no ecossistema do **Hack The Box**. Meu objetivo pa
 
 > "If you think your users are idiots, only idiots will use it. - Linus Torvalds"
 
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,php,js,linux,cpp,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,linux,powershell,bash,asm,)](https://skillicons.dev)

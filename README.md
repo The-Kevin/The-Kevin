@@ -4,7 +4,7 @@ Graduado em Defesa Cibernética pela [FIAP](https://www.fiap.com.br/), transitan
 
 ---
 
-### 🔍 Focus & Expertise
+### Focus & Expertise
 
 * **Red Team Operations:** Focado em Active Directory (Enumeration & Exploitation), Pivoting e movimentação lateral.
 * **Analysis:** Análise de binários e exploração de vulnerabilidades web.
@@ -21,7 +21,7 @@ Atualmente em imersão total no ecossistema do **Hack The Box**. Meu objetivo pa
 
 ---
 
-### 🎯 Metas Pessoais
+### Metas Pessoais
 * Manter a disciplina nos estudos de Red Team enquanto cuido do meu novo "pequeno sysadmin" (meu filho nasceu recentemente! 🍼).
 * Quitar o financiamento do carro até o final do ano.
 
